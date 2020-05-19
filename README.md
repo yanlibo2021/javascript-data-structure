@@ -14,5 +14,3 @@ A complete data structure library written in JavaScript.
 - [Bag 背包](http://mauriciosantos.github.io/Buckets-JS/symbols/buckets.Bag.html)
 - [Binary Heap 二叉堆](http://mauriciosantos.github.io/Buckets-JS/symbols/buckets.Heap.html)
 - [Priority Queue 优先队列](http://mauriciosantos.github.io/Buckets-JS/symbols/buckets.PriorityQueue.html)
-
-参考资料 https://github.com/mauriciosantos/Buckets-JS
