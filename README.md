@@ -14,3 +14,4 @@ A complete data structure library written in JavaScript.
 - [Trie 字典树]
 - [Binary Heap]
 - [Heap (max and min) 堆 - 最大堆 & 最小堆]
+- [ Graphs: breadth-first search 广度优先搜索]
