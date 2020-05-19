@@ -22,5 +22,3 @@ A complete data structure library written in JavaScript.
   非线性表(NonLinear List)
 - [Priority Queue 优先队列](http://mauriciosantos.github.io/Buckets-JS/symbols/buckets.PriorityQueue.html)
   线性表(Linear List)
-
-参考资料 https://github.com/mauriciosantos/Buckets-JS
