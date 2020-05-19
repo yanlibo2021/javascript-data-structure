@@ -6,6 +6,12 @@ A complete data structure library written in JavaScript.
 
 - [Arrays 数组](http://mauriciosantos.github.io/Buckets-JS/symbols/buckets.arrays.html)
   线性表(Linear List)
+
+  ```html
+  定义; 数组 (Array) 是一个有序的数据集合，我们可以通过数组名称 (name) 和索引
+  (index) 进行访问。 数组的索引是从 0 开始的
+  ```
+
 - [Linked List 链表](http://mauriciosantos.github.io/Buckets-JS/symbols/buckets.LinkedList.html)
   线性表(Linear List)
 - [Dictionary 字典](http://mauriciosantos.github.io/Buckets-JS/symbols/buckets.Dictionary.html)
