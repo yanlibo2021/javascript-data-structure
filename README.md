@@ -4,14 +4,15 @@ A complete data structure library written in JavaScript.
 
 ## Included data structures
 
-- [Stacks 栈]
-- [Sets 集合]
-- [Queues& Priority Queues 队列 & 优先队列]
-- [Binary Search Tree 二叉查找树]
-- [Binary Search Tree: Traversal & Height 二叉查找树:遍历和高度]
-- [Hash Tables 哈希表]
-- [Linked List 链表]
-- [Trie 字典树]
-- [Binary Heap]
-- [Heap (max and min) 堆 - 最大堆 & 最小堆]
-- [ Graphs: breadth-first search 广度优先搜索]
+- [Linked List 链表](http://mauriciosantos.github.io/Buckets-JS/symbols/buckets.LinkedList.html)
+- [Dictionary 字典](http://mauriciosantos.github.io/Buckets-JS/symbols/buckets.Dictionary.html)
+- [Multi Dictionary 多字典](http://mauriciosantos.github.io/Buckets-JS/symbols/buckets.MultiDictionary.html)
+- [Binary Search Tree 二叉查找树](http://mauriciosantos.github.io/Buckets-JS/symbols/buckets.BSTree.html)
+- [Stack 栈](http://mauriciosantos.github.io/Buckets-JS/symbols/buckets.Stack.html)
+- [Queue 队列](http://mauriciosantos.github.io/Buckets-JS/symbols/buckets.Queue.html)
+- [Set 集合](http://mauriciosantos.github.io/Buckets-JS/symbols/buckets.Set.html)
+- [Bag 背包](http://mauriciosantos.github.io/Buckets-JS/symbols/buckets.Bag.html)
+- [Binary Heap 二叉堆](http://mauriciosantos.github.io/Buckets-JS/symbols/buckets.Heap.html)
+- [Priority Queue 优先队列](http://mauriciosantos.github.io/Buckets-JS/symbols/buckets.PriorityQueue.html)
+
+参考资料 https://github.com/mauriciosantos/Buckets-JS
