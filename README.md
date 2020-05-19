@@ -4,6 +4,8 @@ A complete data structure library written in JavaScript.
 
 ## Included data structures
 
+- [Arrays 数组](http://mauriciosantos.github.io/Buckets-JS/symbols/buckets.arrays.html)
+  线性表
 - [Linked List 链表](http://mauriciosantos.github.io/Buckets-JS/symbols/buckets.LinkedList.html)
   线性表
 - [Dictionary 字典](http://mauriciosantos.github.io/Buckets-JS/symbols/buckets.Dictionary.html)
